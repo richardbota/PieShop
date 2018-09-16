@@ -3,9 +3,9 @@ C:\Users\admin\source\repos\PieShop\PieShop\bin\Debug\netcoreapp2.0\PieShop.runt
 C:\Users\admin\source\repos\PieShop\PieShop\bin\Debug\netcoreapp2.0\PieShop.runtimeconfig.dev.json
 C:\Users\admin\source\repos\PieShop\PieShop\bin\Debug\netcoreapp2.0\PieShop.dll
 C:\Users\admin\source\repos\PieShop\PieShop\bin\Debug\netcoreapp2.0\PieShop.pdb
-C:\Users\admin\source\repos\PieShop\PieShop\obj\Debug\netcoreapp2.0\PieShop.csprojResolveAssemblyReference.cache
 C:\Users\admin\source\repos\PieShop\PieShop\obj\Debug\netcoreapp2.0\PieShop.csproj.CoreCompileInputs.cache
 C:\Users\admin\source\repos\PieShop\PieShop\obj\Debug\netcoreapp2.0\PieShop.AssemblyInfoInputs.cache
 C:\Users\admin\source\repos\PieShop\PieShop\obj\Debug\netcoreapp2.0\PieShop.AssemblyInfo.cs
 C:\Users\admin\source\repos\PieShop\PieShop\obj\Debug\netcoreapp2.0\PieShop.dll
 C:\Users\admin\source\repos\PieShop\PieShop\obj\Debug\netcoreapp2.0\PieShop.pdb
+C:\Users\admin\source\repos\PieShop\PieShop\obj\Debug\netcoreapp2.0\PieShop.csprojResolveAssemblyReference.cache
